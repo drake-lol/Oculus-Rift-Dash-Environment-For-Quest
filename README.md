@@ -1,5 +1,5 @@
 # Oculus Rift Dash Environment For Quest
-My attempt at recreating the Rift's main screen for the Quest.
+My attempt at recreating the Rift/Quest Link's main dash environment for the Quest.
 
 Download
 ---
